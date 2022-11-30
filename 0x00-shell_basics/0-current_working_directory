@@ -1,1 +1,2 @@
-pws
+#!/bin/bash
+echo "pwd"
